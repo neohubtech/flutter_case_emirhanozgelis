@@ -38,3 +38,23 @@ https://intertechtr.github.io/interview.json
 
 
 ![flutter_case](https://github.com/neohubtech/flutter_case_emirhanozgelis/assets/5588840/7957e788-02ab-4178-80c6-ef9898b4f040)
+
+
+## Sonuç Ekran Görüntüleri: 
+
+<p float="left">
+ <img src="https://github.com/neohubtech/flutter_case_emirhanozgelis/assets/35877767/b86423ab-40a9-40b4-96af-9fcb378cb544" height="400" width="200"/>
+ <img src="https://github.com/neohubtech/flutter_case_emirhanozgelis/assets/35877767/ebb0addd-f305-45af-a28d-8e9a68f7b2cd" height="400" width="200"/> 
+<img src="https://github.com/neohubtech/flutter_case_emirhanozgelis/assets/35877767/5abdf72d-c99e-4576-a686-9dd273a9cc0d" height="400" width="200"/> 
+  
+</p>
+
+
+
+
+
+
+
+
+
+
